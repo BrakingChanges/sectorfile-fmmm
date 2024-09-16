@@ -1,0 +1,9 @@
+===== FMMM Antananarivo Transition Table =====
+
+{{page>ssa-transition-table#Dynamic Transition}}
+
+
+{{page>ssa-transition-table#FMMM}}
+
+
+{{page>fm-footer#FMMM}}

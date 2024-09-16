@@ -1,0 +1,7 @@
+===== Madagascar Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
+| [[airport:fmmi:home|FMMI]]  | Ivatp        | Antananarivo   | //In Development// | - |
+
+
+{{page>fm-footer#Madagascar}}

@@ -1,0 +1,7 @@
+==== Comoros Airspace ====
+
+^ ICAO  ^ Name         ^ SSA Code  ^ Type    ^ Remarks ^
+| FMMM  | Antananarivo | [[airspace:fmmm:home|FMMM]]  | -
+
+
+{{page>fm-footer#Comoros}}

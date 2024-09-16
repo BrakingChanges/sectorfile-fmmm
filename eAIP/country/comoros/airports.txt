@@ -1,0 +1,7 @@
+===== Comoros Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
+| [[airport:fmci:home|FMCI]]  | Bandaressalam        | Moheli   | //In Development// | - |
+
+
+{{page>fm-footer#Comoros}}

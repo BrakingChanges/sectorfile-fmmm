@@ -1,0 +1,19 @@
+===== Comoros =====
+----
+
+//This page is a subsection of the [[country:comoros:home|Comoros]] country page.//
+
+===== La Reunion ======
+----
+
+//This page is a subsection of the [[country:reunion:home|La Reunion]] country page.//
+
+===== Madagascar ======
+----
+
+//This page is a subsection of the [[country:madagascar:home|Madagascar]] country page.//
+
+===== Mayotte ======
+----
+
+//This page is a subsection of the [[country:mayotte:home|Mayotte]] country page.//

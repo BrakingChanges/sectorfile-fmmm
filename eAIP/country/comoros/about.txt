@@ -1,0 +1,8 @@
+===== Comoros Information =====
+
+The Comoros, officially the Union of the Comoros, is an independent country made up of three islands in southeastern Africa, located at the northern end of the [[country:mozambique:home|Mozambique]] Channel in the Indian Ocean. Its capital and largest city is Moroni. The religion of the majority of the population, and the official state religion, is Sunni Islam. As a member of the Arab League, it is the only country in the Arab world which is entirely in the Southern Hemisphere. Comoros proclaimed their independence on July 6, 1975. It is also a member state of the African Union, the Organisation internationale de la Francophonie, the Organisation of Islamic Cooperation, and the Indian Ocean Commission. The country has three official languages: Chi Comori, French and Arabic. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Comoros|Wikipedia]].
+
+
+{{page>fm-footer#Comoros}}

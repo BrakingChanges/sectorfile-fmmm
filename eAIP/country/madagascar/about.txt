@@ -1,0 +1,8 @@
+===== Madagascar Information =====
+
+Madagascar, officially the Republic of Madagascar is an island country in the Indian Ocean, approximately 400 kilometres (250 miles) off the coast of East Africa across the [[country:mozambique:home|Mozambique]] Channel. At 592,800 square kilometres (228,900 sq mi), it is the world's second-largest island country, after Indonesia. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Madagascar|Wikipedia]].
+
+
+{{page>fm-footer#Madagascar}}

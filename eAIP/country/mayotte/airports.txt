@@ -1,0 +1,7 @@
+===== Mayotte Airports =====
+
+^ ICAO      ^ Name                      ^ City          ^ Status             ^ Remarks ^
+| [[airport:fmcz:home|FMCZ]]  | Pamandzi        | Dzaoudzi   | //In Development// | - |
+
+
+{{page>fm-footer#Mayotte}}

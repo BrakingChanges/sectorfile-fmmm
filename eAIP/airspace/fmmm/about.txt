@@ -1,0 +1,13 @@
+===== FMMM Antananarivo Flight Information Region =====
+
+  * The Antananarivo FIR covers the entirety of [[country:madagascar:home|Madagascar]]'s borders.
+
+==== Airport Coverage ====
+
+Antananarivo covers the following airports:
+
+=== Madagascar ===
+
+{{page>country:madagascar:airports#Madagascar Airports}}
+
+{{page>fm-footer#FMMM}}
