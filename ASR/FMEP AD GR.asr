@@ -1,0 +1,46 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Mattewis\AppData\Roaming\EuroScope\re2\FMMM-Package_20251201203227-251201-0002.sct
+SECTORTITLE:FMMM-Package_20251201203227-251201-0002.sct
+Free Text:FMEP Ground Labels\15:freetext
+Free Text:FMEP Ground Labels\33:freetext
+Free Text:FMEP Ground Labels\A:freetext
+Free Text:FMEP Ground Labels\B:freetext
+Free Text:FMEP Ground Labels\B1:freetext
+Free Text:FMEP Ground Labels\B2:freetext
+Free Text:FMEP Ground Labels\B2A:freetext
+Free Text:FMEP Ground Labels\B3:freetext
+Free Text:FMEP Ground Labels\C:freetext
+Free Text:FMEP Ground Labels\C1:freetext
+Free Text:FMEP Ground Labels\C2:freetext
+Free Text:FMEP Ground Labels\C3:freetext
+Free Text:FMEP Ground Labels\C4:freetext
+Free Text:FMEP Ground Labels\Civil Terminal:freetext
+Free Text:FMEP Ground Labels\D:freetext
+Free Text:FMEP Ground Labels\General Aviation:freetext
+Free Text:FMEP Ground Labels\H:freetext
+Free Text:FMEP Ground Labels\Helicopter Apron:freetext
+Free Text:FMEP Ground Labels\Military Apron:freetext
+Free Text:FMEP Ground Labels\TE:freetext
+Geo:FMEP Groundlayout:
+Regions:FMEP Groundlayout:polygon
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:6500
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:2
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:321.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-21.322664:55.414347:-21.313140:55.433452
+PLUGIN:Ground Radar plugin:AirportElevation:60
+PLUGIN:Ground Radar plugin:AirportRadius:3
+PLUGIN:Ground Radar plugin:GroundMode:FMEP
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:TopSky plugin:ShowMapData:FMEP
