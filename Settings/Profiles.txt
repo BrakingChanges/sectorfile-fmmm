@@ -43,6 +43,10 @@ PROFILE:FMEE_GND:20:3
 ATIS2:$radioname
 ATIS3:Welcome to Madagascar, part of the Sub-Saharan Africa Division (SSA)
 ATIS4:Visit us at vatssa.com
+PROFILE:FMEE_I_TWR:20:3
+ATIS2:$radioname
+ATIS3:Welcome to Madagascar, part of the Sub-Saharan Africa Division (SSA)
+ATIS4:Visit us at vatssa.com
 PROFILE:<initials>_OBS:300:0
 ATIS2:$myrealname
 ATIS3:Observing Madagascar, part of the Sub-Saharan Africa Division (SSA)

@@ -1,0 +1,17 @@
+VOICE
+AG:FMCH_TWR Moroni Tower:118.100
+AG:FMCZ_ATIS:127.000
+AG:FMCZ_TWR Dzaoudzi Tower:119.200
+AG:FMEE_APP Roland Garros Approach:119.400
+AG:FMEE_ATIS:126.800
+AG:FMEE_GND Roland Garros Ground:121.900
+AG:FMEE_TWR Roland Garros Tower:118.400
+AG:FMMI_0_GND Ivato Ground:122.650
+AG:FMMI_APP Antananarivo Approach:125.700
+AG:FMMI_TWR Ivato Tower:120.100
+AG:FMMM_CTR Antananarivo Control:128.900
+AG:FMMT_TWR Toamasina Tower:118.300
+AG:FMNM_TWR Mahajanga Tower:119.100
+AG:FMNN_TWR Nosy-Be Tower:119.300
+AG:FMEP_I_TWR Pierrefonds Information:122.400
+END
